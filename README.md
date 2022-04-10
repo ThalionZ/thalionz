@@ -9,7 +9,7 @@
   <img align="center" alt="ThalionZ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ThalionZZ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ThalionZ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Thalionz-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/402496891885191179/962532425014050886/download20220406222717.png?width=473&height=473">
+  <img align="right" alt="Thalionz-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/402496891885191179/962551569449123920/download20220400001607.png?width=473&height=473">
 </div>
   
   ##
